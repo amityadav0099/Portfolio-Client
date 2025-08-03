@@ -23,7 +23,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone []
+git clone [https://github.com/amityadav0099/Portfolio-Client]
 cd your-repo-name
 ````
 
