@@ -212,7 +212,7 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "Car Collection Designs",
+      title: "Vector illustration",
       description:
         "A visually captivating design project focused on showcasing premium car collections through elegant layouts, modern typography, and strategic use of color. This design emphasizes user experience and aesthetics, crafted using tools like Adobe Photoshop and Illustrator. It features sleek UI components tailored for automotive enthusiasts or luxury car dealerships, blending creativity with functionality",
       image: carLogo,
