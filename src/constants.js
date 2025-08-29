@@ -214,9 +214,9 @@ export const SkillsInfo = [
       id: 0,
       title: "Vector illustration",
       description:
-        "A visually captivating design project focused on showcasing premium car collections through elegant layouts, modern typography, and strategic use of color. This design emphasizes user experience and aesthetics, crafted using tools like Adobe Photoshop and Illustrator. It features sleek UI components tailored for automotive enthusiasts or luxury car dealerships, blending creativity with functionality",
+        "Specialized in creating high-quality vector artwork, including custom logos, icons, and detailed illustrations. Delivered precise image tracing and scalable designs that maintain clarity across all formats. Focused on crafting unique brand identities and professional digital artwork tailored to client vision, ensuring clean, modern, and impactful results.",
       image: carLogo,
-      tags: ["Typography", "Colour Theory"],
+      tags: ["Vector Art", "Illustration", "Logo Design", "Icon Design"],
       // github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
       // webapp: "https://githubprofiledetective.netlify.app/",
       driveLink: "https://drive.google.com/embeddedfolderview?id=1-ZqC0uylpW8DHAhwEu2XT82LLpKbgZyH#grid",
